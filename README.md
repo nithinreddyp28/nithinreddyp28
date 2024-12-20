@@ -1,84 +1,48 @@
-<h1 align="center">Hi 👋, I'm Nithin Reddy Penta Reddy</h1>
-<h3 align="center">💡 Data Enthusiast | Transforming Data into Actionable Insights 💡</h3>
+# 👋 Hi, I'm Nithin Reddy Penta Reddy
 
-<p align="center">
-  With expertise in Investment Banking, M&A, Financial Modeling, and Data Analytics, I am passionate about solving complex business challenges using data-driven strategies.
-</p>
+💡 **Data Enthusiast | Financial Modeling | M&A | Investment Banking | Data Analytics**
 
----
+Welcome to my GitHub! I'm passionate about transforming data into actionable insights and solving complex business problems. With a solid background in **Investment Banking, M&A, Financial Modeling**, and **Data Analytics**, I use data-driven strategies to drive business decisions and solve real-world challenges. 
 
-- 🌱 **Currently learning:** Python, R, SQL, Tableau  
-- 👯 **Looking to collaborate on:** Data Analysis, Financial Modeling, and Machine Learning Projects  
-- 💬 **Ask me about:** Data Cleaning, Data Transformation, Visualization, Engineering, Python, R, Tableau, Power BI, SQL  
-- 📫 **Reach me at:** [nithinreddy28@gmail.com](mailto:nithinreddy28@gmail.com)  
+## 🚀 What I'm up to
+Currently, I’m diving deeper into **Python**, **R**, **SQL**, **Tableau**, and **Machine Learning** to expand my skill set and work on innovative projects. 
 
----
+I'm always eager to collaborate on:
+- **Data Analysis & Financial Modeling**
+- **Machine Learning Projects**
+- **Predictive Modeling & Forecasting**
+- **Data Visualization with Tableau & Power BI**
 
-<h3 align="left">🌟 Let's Connect:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/nithin-reddy-penta-reddy-32093bb9/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/nithinreddy28" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-</p>
+## 💼 Recent Experience
+- **Investment Banking Analyst** at UBS: Worked on high-impact M&A transactions across **APAC, EMEA, and Americas** regions.
+- **Financial Modeling & Valuation Expert**: Designed advanced financial models that informed key corporate decisions.
+- **Data Analyst**: Leveraged data analytics to uncover actionable insights that informed business strategies.
 
----
+## ⚙️ Skills & Tools
+- **Programming Languages**: Python, R, SQL, C, Java
+- **Data Analysis Tools**: Tableau, Power BI, MySQL, SQL Server, AWS, Hadoop
+- **Machine Learning**: scikit-learn, TensorFlow
+- **Data Visualization**: Tableau, Power BI
+- **Cloud**: AWS, Google Cloud
 
-<h3 align="left">💼 Recent Experience:</h3>
-<ul>
-  <li><strong>Investment Banking Analyst at UBS:</strong> Collaborated on high-impact M&A transactions across APAC, EMEA, and Americas regions.</li>
-  <li><strong>Financial Modeling & Valuation Expert:</strong> Designed and implemented sophisticated financial models to aid corporate decision-making.</li>
-  <li><strong>Data Analyst:</strong> Applied statistical analysis and visualization techniques to drive strategic business decisions.</li>
-</ul>
+## 📊 Notable Projects
+Here are some of my exciting projects:
+1. **[Data Analysis with R, Python, and SQL](https://github.com/nithinreddyp28/SQL-Database-for-Employee-Management)**: Explored complex datasets to uncover hidden trends and actionable insights.
+2. **[Predictive Modeling with Machine Learning](https://github.com/nithinreddyp28/Customer-Churn-Prediction)**: Built robust models to predict customer churn in the telecom industry.
+3. **[Vehicle Collision Analysis](https://github.com/nithinreddyp28/Vehicle-Collision-Analysis)**: Analyzed motor vehicle collision data to predict injury severity and fatalities.
+4. **[Crisis Management and Public Safety (Toronto)](https://github.com/nithinreddyp28/A-Machine-Learning-Approach-to-Crisis-Management-and-Public-Safety-in-Toronto)**: Applied machine learning to improve crisis management and public safety.
 
----
+## 🌱 Currently Learning
+- Python, R, SQL, and Data Analytics
+- Advanced Machine Learning Techniques
 
-<h3 align="left">⚙️ Technologies & Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://www.tableau.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original-wordmark.svg" alt="Tableau" width="40" height="40" />
-  </a>
-  <a href="https://www.r-project.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/powerbi" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Power_BI_Logo_2022.svg" alt="Power BI" width="40" height="40" />
-  </a>
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
-  </a>
-  <a href="https://hadoop.apache.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="40" height="40" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  </a>
-</p>
+## 💬 Let's Connect!
+Feel free to reach out or connect with me on:
+- [LinkedIn](https://www.linkedin.com/in/nithin-reddy-penta-reddy-32093bb9)
+- [Kaggle](https://www.kaggle.com/nithinreddyp28)
+- Email: [nithinreddy28@gmail.com](mailto:nithinreddy28@gmail.com)
+
+Thanks for stopping by! 🙌
 
 ---
-
-<h3 align="left">📊 Some of My Projects:</h3>
-<ul>
-  <li><strong>Data Analysis with R, Python, and SQL:</strong> Analyzed complex datasets to uncover actionable trends and insights.</li>
-  <li><strong>Predictive Modeling with Machine Learning:</strong> Created robust models to forecast financial and business outcomes.</li>
-</ul>
-
----
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nithinreddyp28&show_icons=true&locale=en&layout=compact" alt="nithinreddyp28" />
-</p>
+Made with ❤️ and Python
