@@ -22,9 +22,15 @@ This portfolio showcases my work in **Data Analytics**, **Machine Learning**, **
 
 ### **Senior Associate/Associate/Trainee**  
 Verity Knowledge Solutions Pvt Ltd (UBS) — *May 2015 – Aug 2023*
-- Worked on M&A transactions across **APAC, EMEA, and Americas** regions.
-- Developed financial models and conducted valuation analyses for clients in various sectors.
-
+- Managed and analyzed large datasets using SQL, uncovering key insights to drive business decisions.
+- Performed advanced data cleaning and Exploratory Data Analysis (EDA) to ensure data quality and integrity.
+- Developed and deployed machine learning models (Random Forest, Logistic Regression, SVM, Gradient Boosting), improving predictive accuracy.
+- Created interactive dashboards using Tableau and Power BI, enhancing KPI tracking and business performance.
+- Automated data workflows using Python (Pandas, NumPy) and Power Query, reducing manual effort by 30%.
+- Conducted A/B testing and statistical analysis to optimize marketing campaigns, increasing customer engagement by 10%.
+- Applied Natural Language Processing (NLP) techniques to analyze unstructured data and extract valuable business insights.
+- Led cross-functional metric reviews, using SQL and Python to drive data-driven actions that improved key KPIs by 15%.
+- Mentored junior associates in advanced analytics, fostering skill development and team growth.
 ### **Financial Modeling & Valuation Expert**
 - Designed financial models to inform corporate decisions, including mergers, acquisitions, and investments.
 
