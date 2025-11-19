@@ -2,8 +2,8 @@
 
 This portfolio showcases my work in **Data Analytics**, **Machine Learning**, **Financial Modeling**, **M&A**, and **Investment Banking**. It includes my academic projects, personal projects, and achievements in the field of data science and analytics.
 
-- **Email**: [nithinreddy28@gmail.com](mailto:nithinreddy28@gmail.com)
-- **LinkedIn**: [linkedin.com/in/nithin-reddy-penta-reddy-32093bb9](https://www.linkedin.com/in/nithin-reddy-penta-reddy-32093bb9)
+- **Email**: [pentareddynithin@gmail.com](mailto:pentareddynithin@gmail.com)
+- **LinkedIn**: [linkedin.com/in/nithinpenta](https://www.linkedin.com/in/nithinpenta/)
 - **Kaggle**: [kaggle.com/nithinreddyp28](https://www.kaggle.com/nithinreddyp28)
 
 ## 🚀 Current Focus
