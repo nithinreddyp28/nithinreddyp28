@@ -31,19 +31,20 @@ Verity Knowledge Solutions Pvt Ltd (UBS) — *May 2015 – Aug 2023*
 - Applied Natural Language Processing (NLP) techniques to analyze unstructured data and extract valuable business insights.
 - Led cross-functional metric reviews, using SQL and Python to drive data-driven actions that improved key KPIs by 15%.
 - Mentored junior associates in advanced analytics, fostering skill development and team growth.
-### **Financial Modeling & Valuation Expert**
-- Designed financial models to inform corporate decisions, including mergers, acquisitions, and investments.
+
 
 ## ⚙️ Skills & Tools
-- **Programming Languages**: (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), R (Dplyr, Tidyr, Caret, Ggplot2), SQL, C, Matlab
-- **Data Analysis Tools**: Tableau, Power BI, MySQL, SQL Server, AWS, Hadoop
-- **Machine Learning**: Supervised and Unsupervised ML Models
-- **Business Intelligence & Visualization:**: Tableau, Power BI, Excel, Looker Studio, Qlik
-- **Automation & Process Optimization:**: Python (Pandas, NumPy), Power Query
-- **A/B Testing & Experimentation:**: Split & Multivariate Testing
-- **Natural Language Processing (NLP):**: Text analysis, Adam solver for optimization
+- **Cloud Platforms and Services**: Azure (ADF, ADLS Gen2, Blob, Synapse, Azure SQL DB, Azure SQL DW, Service Bus, AAS, AAD, DMS), AWS (S3, EC2, RDS, IAM, VPC, Glue, Lambda, CloudWatch), MS Fabric (OneLake, Fabric DF), Azure DevOps, Azure Storage Explorer, IaaS Provisioning, Pipeline Perf Optimization (ADF / SSIS Caching).
+- **Big Data, ELT and Pipeline Engineering**: Databricks (Workflows, DLT, Autoloader, UC), Spark (Structured Streaming), Delta Lake, Kafka, dbt, Fivetran, AWS Glue, AWS Lambda, Informatica (PowerCenter, IDQ, IICS, IDMC), SSIS, Airflow, Reverse ETL, API Ingestion (REST, SOAP, GraphQL), SFTP, SaaS Integrations (Workday), Snowflake (Streams, Tasks, Snowpipe), Oracle DW, AWS-Hosted Oracle Systems.
+- **Programming and Scripting**: Python, PySpark, Golang, SQL (ANSI SQL, T-SQL), R, C#, PowerShell, Bash, Pandas, NumPy, Regex, Matplotlib, scikit-learn.
+Databases and Storage Systems: SQL Server, Azure SQL DB, Synapse, Snowflake, MySQL, PostgreSQL, Cosmos DB, MongoDB, Delta Lake Tables, ADLS / Blob Staging, Data Lake Zones.
+- **Machine Learning and NLP**: TensorFlow, scikit learn, Natural Language Processing using TF IDF, LDA, NLTK, spaCy, BERT, Model deployment through Flask and FastAPI, containerization using Docker and Kubernetes, Statistical modeling including regression, clustering, GLM, hypothesis testing, forecasting and time series analysis.
+- **Business Intelligence and Visualization**: Power BI, Tableau, Looker, Looker Studio, SSRS, SSAS (tabular and OLAP cubes), Visual Studio, Power Query M Language, semantic modeling, KPI frameworks, star schema and Snowflake schema design, Architected medallion architectures (Bronze/Silver/Gold) with SCD Type 2 modeling, Spark UI–driven performance optimization, and analytics layers supporting decision velocity, product analytics, and business performance reporting
+- **Data Modeling and Architecture**: Star schema, Snowflake schema, fact and dimension modeling, Kimball methodology, OLAP cube design, semantic layer design, MDM principles, data quality and governance frameworks including lineage, RBAC, key vault integration and HIPAA aligned data management, Data contracts, SLAs/SLOs, domain-driven data products, Data Mesh patterns, contract testing, schema evolution governance.
+- **DevOps, CI/CD and Infrastructure as Code**: Azure DevOps pipelines, GitHub Actions, GitLab CI, Jenkins, YAML-based deployments, ARM templates, Terraform, infrastructure as code practices, automated deployments for ADF, dbt, Databricks, Power BI and containerized services, SLA/SLO dashboards, anomaly detection, lineage, pipeline reliability engineering.
+- **Tools and Utilities**: SQL Server Management Studio, Business Intelligence Development Studio, Visual Studio, SQL Profiler, Import and Export Wizard, Synapse Studio, Fabric Data Factory, Databricks Repos, Jupyter notebooks, monitoring dashboards and metadata-driven ETL frameworks.
+- **Operating Systems**: Windows, Windows Server, Ubuntu.
 - **Project Management & Collaboration:**: Agile methodology, cross-functional teamwork, executive-level reporting
-- **Cloud**: AWS, Google Cloud
 
 ## 📊 Notable Projects
 
