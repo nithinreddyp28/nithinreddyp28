@@ -13,24 +13,48 @@ This portfolio showcases my work in **Data Analytics**, **Machine Learning**, **
 
 ## 💼 Recent Experience
 
-### **Student Data Analyst**  
-**Royal Canadian Institute for Science, Canada** — *Apr 2024 – Jun 2024*
-- Led a cross-functional team to design and implement an ETL data migration architecture from Universal Analytics to Google Analytics 4, ensuring seamless data tracking continuity and improving data accuracy by 25%.
-- Created a comprehensive data archive from Universal Analytics to Google Analytics 4 to preserve historical insights and ensure long-term accessibility of critical metrics.
-- Evaluated social network traffic data in depth and leveraged data-driven insights to enhance the social media content strategy, resulting in a 30% increase in website traffic.
-- Developed interactive dashboards using Looker Studio (Data Studio) and Tableau to provide a comprehensive overview of RCIScience’s audience, landing pages, and event performance, enabling more informed strategic decisions.
+### **Sr. Data Engineer / BI Enginee**  
+**LGS, Montreal, CA** — *Sep 2024 – Present*
+- Architected and scaled production-grade ETL/ELT pipelines using Databricks Lakehouse (Delta Lake, Delta Live Tables, Autoloader, Workflows), Azure Data Factory, Apache Airflow, and Microsoft Fabric, ingesting high-volume structured, semi-structured, and NoSQL data into Snowflake with improved SLA reliability.
+- Designed hybrid ETL/ELT architectures, executing compute-intensive transformations in Databricks/Spark while optimizing analytics workloads in Snowflake via dbt, balancing performance, scalability, and cost efficiency.
+- Led migration of legacy Informatica PowerCenter workflows to Informatica Intelligent Data Management Cloud (IDMC), rebuilding complex mappings, taskflows, scheduling, parameterization, and centralized error handling aligned with cloud-native execution patterns.
+- Designed and enhanced Workday integrations using Informatica IDMC connectors and REST APIs, implementing incremental loads, CDC logic, reconciliation checks, and audit controls across Workday HCM and Financials data.
+- Engineered AWS-based data architectures leveraging S3, EC2, RDS, IAM, VPC, and CloudWatch, including AWS Glue ETL workflows and AWS Lambda-driven serverless pipelines for event-based ingestion and low-latency processing.
+- Implemented secure cross-cloud integrations across Azure, Informatica IDMC, and AWS using IAM roles, encryption-at-rest/in-transit, VPC networking, and enterprise credential management standards.
+- Solved complex data engineering challenges using Python (PySpark, Pandas, NumPy), dbt, and Great Expectations, building scalable transformations, validation frameworks, and production-grade batch and streaming pipelines.
+- Optimized Snowflake performance using Snowpipe, Streams, Tasks, clustering strategies, and SQL refactoring, reducing analytical query runtimes by 30%.
+- Designed and operationalized real-time, event-driven pipelines using Kafka, Spark Structured Streaming, Azure Service Bus, AWS Lambda, and API-based integrations (REST, SOAP, GraphQL).
+- Standardized enterprise ingestion and transformation frameworks through data contracts, schema validation, CDC logic, reconciliation workflows, and freshness SLAs, enforcing quality gates via Great Expectations and dbt tests.
+- Established analytics-ready Bronze/Silver/Gold datasets with SCD Type 2 modeling, enabling BI and self-service analytics across Power BI, Tableau, Looker, and Looker Studio.
+- Performed Spark UI-driven performance debugging, resolving bottlenecks related to shuffle operations, skewed partitions, memory pressure, and inefficient joins.
+- Strengthened governance and security posture via Unity Catalog, RBAC, Azure AD controls, Key Vault, lineage tracking, audit logging, and HIPAA-aligned practices.
+- Reduced cloud compute and storage costs by 25% through Databricks cluster optimization, Snowflake credit governance, and Azure storage lifecycle strategies.
+- Enabled advanced analytics and AI-driven use cases by developing Python-based microservices using Flask, FastAPI, TensorFlow, and scikit-learn, supporting anomaly detection, drift monitoring, and NLP-driven workflows.
+- Improved platform reliability and observability through SLO-based monitoring, lineage tracking, anomaly detection, and Airflow-driven orchestration.
+- Automated CI/CD pipelines across Databricks, Snowflake, dbt, IDMC, and Fabric using Azure DevOps, GitHub Actions, Jenkins, GitLab CI, and Terraform.
+- Built reusable platform utilities in Python and Golang, standardizing ingestion, validation, monitoring, orchestration, and IaC provisioning.
+- Acted as technical SME for IDMC, Workday integrations, and ETL modernization initiatives, leading client workshops and solution design sessions.
 
-### **Senior Associate/Associate/Trainee**  
-Verity Knowledge Solutions Pvt Ltd (UBS) — *May 2015 – Aug 2023*
-- Managed and analyzed large datasets using SQL, uncovering key insights to drive business decisions.
-- Performed advanced data cleaning and Exploratory Data Analysis (EDA) to ensure data quality and integrity.
-- Developed and deployed machine learning models (Random Forest, Logistic Regression, SVM, Gradient Boosting), improving predictive accuracy.
-- Created interactive dashboards using Tableau and Power BI, enhancing KPI tracking and business performance.
-- Automated data workflows using Python (Pandas, NumPy) and Power Query, reducing manual effort by 30%.
-- Conducted A/B testing and statistical analysis to optimize marketing campaigns, increasing customer engagement by 10%.
-- Applied Natural Language Processing (NLP) techniques to analyze unstructured data and extract valuable business insights.
-- Led cross-functional metric reviews, using SQL and Python to drive data-driven actions that improved key KPIs by 15%.
-- Mentored junior associates in advanced analytics, fostering skill development and team growth.
+### **Sr BI Engineer/ETL Developer**  
+Verity Knowledge Solutions Pvt Ltd (UBS) — *Sep 2018 – Aug 2023*
+- Supported healthcare, finance, investment banking, retail, and ecommerce analytics by engineering scalable pipelines using Azure Data Factory, Synapse, Snowflake, Databricks, SSIS, and Informatica (PowerCenter, IDQ, IICS, IDMC).
+- Designed high-throughput ingestion frameworks leveraging Azure Blob Storage, ADLS Gen2, SQL staging layers, SSIS data flows, dbt models, and Fabric Data Factory pipelines.
+- Improved analytical performance through dimensional modeling, star schemas, and Snowflake micro-partition optimization aligned with Kimball methodology.
+- Developed dashboards and semantic models in Power BI, Tableau, Looker, and Looker Studio, enabling KPI frameworks, forecasting, and decision-support analytics.
+- Reduced BI defects by 45% by implementing MDM and data quality frameworks using Informatica IDQ, SQL, and validation pipelines.
+- Delivered ML capabilities including classification, regression, clustering, forecasting, and time-series models using TensorFlow and scikit-learn, deployed via Flask/FastAPI APIs.
+- Built NLP pipelines using TF-IDF, LDA, spaCy, NLTK, and BERT for document tagging, sentiment analysis, and metadata extraction.
+- Strengthened data science workflows via GLM analysis, hypothesis testing, feature engineering, and statistical profiling.
+- Increased ingestion reliability through REST, SOAP, XML, JSON, Salesforce, vendor APIs, and SFTP integrations with automated validation and reconciliation.
+- Reduced manual workload by over 70% by developing reusable SQL, SSIS, dbt, and PySpark components.
+- Modernized reporting systems through SSIS, SSRS, and SSAS tabular/OLAP models.
+- Automated deployment workflows using Azure DevOps, GitHub Actions, Jenkins, GitLab CI, and Terraform.
+- Advanced enterprise BI maturity through Microsoft Fabric Lakehouse and centralized semantic modeling.
+- Built Reverse ETL pipelines delivering curated datasets into CRM, ERP, and operational systems.
+- Strengthened ecommerce analytics via funnel analysis, attribution modeling, retention modeling, and UA → GA4 migrations.
+- Developed metadata-driven ingestion and transformation frameworks, reducing pipeline build time by 60%.
+- Led multi-team initiatives aligning modeling standards, governance practices, and analytics roadmaps.
+- Mentored junior engineers on data modeling, dbt, analytics engineering, and visualization best practices.
 
 
 ## ⚙️ Skills & Tools
@@ -111,7 +135,7 @@ SQL Concepts Applied:
 Feel free to reach out or connect with me on:
 - [LinkedIn](https://www.linkedin.com/in/nithin-reddy-penta-reddy-32093bb9)
 - [Kaggle](https://www.kaggle.com/nithinreddyp28)
-- Email: [nithinreddy28@gmail.com](mailto:nithinreddy28@gmail.com)
+- Email: [pentareddynithin@gmail.com](mailto:nithinreddy28@gmail.com)
 
 Thanks for visiting my portfolio! 🙌
 
